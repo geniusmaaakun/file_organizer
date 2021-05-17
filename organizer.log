@@ -1,0 +1,12 @@
+2021/05/08 21:29:06 parser.go:104: CreateFile parser.go: The system cannot find the file specified.
+2021/05/08 23:32:32 organize.go:13: mkdir 2021/3: The system cannot find the path specified.
+2021/05/08 23:32:32 organize.go:18: rename anthony-delanoix-IIaNFF84-9c-unsplash.jpg 2021/3/anthony-delanoix-IIaNFF84-9c-unsplash.jpg: The system cannot find the path specified.
+2021/05/08 23:32:32 organize.go:18: rename graffiti-1303650_1920.jpg 2021/3/graffiti-1303650_1920.jpg: The system cannot find the path specified.
+2021/05/08 23:32:32 organize.go:18: rename jez-timms-HauxSOFvh6k-unsplash.jpg 2021/3/jez-timms-HauxSOFvh6k-unsplash.jpg: The system cannot find the path specified.
+2021/05/08 23:32:32 organize.go:18: rename system-2660914_1920.jpg 2021/3/system-2660914_1920.jpg: The system cannot find the path specified.
+2021/05/08 23:33:11 organize.go:13: mkdir ./2021/3: The system cannot find the path specified.
+2021/05/08 23:33:11 organize.go:18: rename anthony-delanoix-IIaNFF84-9c-unsplash.jpg 2021/3/anthony-delanoix-IIaNFF84-9c-unsplash.jpg: The system cannot find the path specified.
+2021/05/08 23:33:11 organize.go:18: rename graffiti-1303650_1920.jpg 2021/3/graffiti-1303650_1920.jpg: The system cannot find the path specified.
+2021/05/08 23:33:11 organize.go:18: rename jez-timms-HauxSOFvh6k-unsplash.jpg 2021/3/jez-timms-HauxSOFvh6k-unsplash.jpg: The system cannot find the path specified.
+2021/05/08 23:33:11 organize.go:18: rename system-2660914_1920.jpg 2021/3/system-2660914_1920.jpg: The system cannot find the path specified.
+2021/05/09 00:19:46 organize.go:13: mkdir ./2021年: Cannot create a file when that file already exists.
